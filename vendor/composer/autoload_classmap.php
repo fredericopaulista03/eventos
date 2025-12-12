@@ -15,6 +15,7 @@ return array(
     'App\\Http\\Controllers\\Controller' => $baseDir . '/app/Http/Controllers/Controller.php',
     'App\\Models\\Event' => $baseDir . '/app/Models/Event.php',
     'App\\Models\\EventCategory' => $baseDir . '/app/Models/EventCategory.php',
+    'App\\Models\\EventImage' => $baseDir . '/app/Models/EventImage.php',
     'App\\Models\\Order' => $baseDir . '/app/Models/Order.php',
     'App\\Models\\OrderItem' => $baseDir . '/app/Models/OrderItem.php',
     'App\\Models\\Organizer' => $baseDir . '/app/Models/Organizer.php',
