@@ -14,6 +14,7 @@ return array(
     'App\\Http\\Controllers\\Api\\TeamController' => $baseDir . '/app/Http/Controllers/Api/TeamController.php',
     'App\\Http\\Controllers\\Controller' => $baseDir . '/app/Http/Controllers/Controller.php',
     'App\\Models\\Event' => $baseDir . '/app/Models/Event.php',
+    'App\\Models\\EventCategory' => $baseDir . '/app/Models/EventCategory.php',
     'App\\Models\\Order' => $baseDir . '/app/Models/Order.php',
     'App\\Models\\OrderItem' => $baseDir . '/app/Models/OrderItem.php',
     'App\\Models\\Organizer' => $baseDir . '/app/Models/Organizer.php',

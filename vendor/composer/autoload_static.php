@@ -590,6 +590,7 @@ class ComposerStaticInit04ad201543ce7f7fc9998863167433f7
         'App\\Http\\Controllers\\Api\\TeamController' => __DIR__ . '/../..' . '/app/Http/Controllers/Api/TeamController.php',
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Models\\Event' => __DIR__ . '/../..' . '/app/Models/Event.php',
+        'App\\Models\\EventCategory' => __DIR__ . '/../..' . '/app/Models/EventCategory.php',
         'App\\Models\\Order' => __DIR__ . '/../..' . '/app/Models/Order.php',
         'App\\Models\\OrderItem' => __DIR__ . '/../..' . '/app/Models/OrderItem.php',
         'App\\Models\\Organizer' => __DIR__ . '/../..' . '/app/Models/Organizer.php',
