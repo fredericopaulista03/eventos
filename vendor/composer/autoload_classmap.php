@@ -22,6 +22,8 @@ return array(
     'App\\Models\\Ticket' => $baseDir . '/app/Models/Ticket.php',
     'App\\Models\\User' => $baseDir . '/app/Models/User.php',
     'App\\Providers\\AppServiceProvider' => $baseDir . '/app/Providers/AppServiceProvider.php',
+    'App\\View\\Components\\AppLayout' => $baseDir . '/app/View/Components/AppLayout.php',
+    'App\\View\\Components\\OrganizerLayout' => $baseDir . '/app/View/Components/OrganizerLayout.php',
     'Attribute' => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
     'Barryvdh\\DomPDF\\Facade\\Pdf' => $vendorDir . '/barryvdh/laravel-dompdf/src/Facade/Pdf.php',
     'Barryvdh\\DomPDF\\PDF' => $vendorDir . '/barryvdh/laravel-dompdf/src/PDF.php',
